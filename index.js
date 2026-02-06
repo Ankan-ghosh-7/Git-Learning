@@ -9,3 +9,4 @@ addition(4,5);
 function isabove18(){
     return age>=18;
 }
+console.log("Start your coding journey");
