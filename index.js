@@ -15,3 +15,4 @@ function print(){
     console.log(name);
 }
 print()
+console.log(10)
