@@ -10,3 +10,4 @@ function isabove18(){
     return age>=18;
 }
 console.log("Hello everyone")
+console.log("Hello world");
