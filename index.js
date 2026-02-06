@@ -11,3 +11,8 @@ function isabove18(){
 }
 console.log("Hello everyone")
 console.log("Hello world");console.log("Start your coding journey");
+let first_name="Ankan";
+function print(){
+    console.log(name);
+}
+print()
