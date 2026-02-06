@@ -9,3 +9,7 @@ let b=10;
 function multiplication(){
     return b*b;
 }
+let c=5;
+function division(){
+    return c/2;
+}
