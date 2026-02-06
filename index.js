@@ -15,3 +15,5 @@ function print(){
     console.log(name);
 }
 print()
+let balance=1000;
+console.log(balance)
