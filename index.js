@@ -26,3 +26,5 @@ let upi="UPI payment has been added"
 console.log(upi);
 let current_balance=100
 console.log(current_balance)
+
+console.log("My name is:")
