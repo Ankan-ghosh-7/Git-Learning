@@ -20,3 +20,5 @@ console.log(balance)
 
 let payment="Payment has been received"
 console.log(payment);
+let latest_news="Everything has been added successfully"
+console.log(latest_news)
