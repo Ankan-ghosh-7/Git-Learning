@@ -24,3 +24,5 @@ let latest_news="Everything has been added successfully"
 console.log(latest_news)
 let upi="UPI payment has been added"
 console.log(upi);
+let current_balance=100
+console.log(current_balance)
