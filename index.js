@@ -28,3 +28,6 @@ let current_balance=100
 console.log(current_balance)
 
 console.log("My name is:")
+//I'm updating the code and fixing the bugs
+let bugs="No bugs"
+console.log(bugs)
