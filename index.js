@@ -17,3 +17,6 @@ function print(){
 print()
 let balance=1000;
 console.log(balance)
+
+let payment="Payment has been received"
+console.log(payment);
